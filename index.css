@@ -11,4 +11,6 @@ body {
 .container {
     margin-top: 25rem;
     margin-left: 10rem;
+    padding-left: 10%;
+    padding-right: 10%;
 }
