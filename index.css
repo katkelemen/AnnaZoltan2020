@@ -1,4 +1,7 @@
 body {
     text-align: center;
     background-color: rgb(223, 147, 162);
+    background-image: url('background.png');
+    background-size: cover;
+    background-repeat: no-repeat;
 }
