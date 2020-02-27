@@ -5,4 +5,10 @@ body {
     background-attachment: fixed;
     background-position: center;
     background-size: contain;
+    background-position-y: top;
+}
+
+.container {
+    margin-top: 25rem;
+    margin-left: 10rem;
 }
