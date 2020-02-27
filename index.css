@@ -1,9 +1,12 @@
 body {
-    text-align: center;
-    background-color: rgb(223, 147, 162);
+    background-color: rgb(252, 197, 208);
     background-image: url('background.png');
     background-size: cover;
     background-repeat: no-repeat;
     max-width: 1200px;
     max-height: 1200px;
+}
+
+#main {
+    text-align: center;
 }
