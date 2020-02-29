@@ -10,11 +10,17 @@ body {
     background-position-x: left;
 }
 
-.container {
+/* .container {
     margin-top: 25rem;
+} */
+
+.first {
+    height: 25rem;
+    z-index: 99;
 }
 
 .row {
+    z-index: 1;
     padding-top: 2rem;
     padding-bottom: 2rem;
 }
