@@ -12,3 +12,8 @@ body {
 .container {
     margin-top: 25rem;
 }
+
+.row {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
