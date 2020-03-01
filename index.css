@@ -2,12 +2,14 @@ body {
     font-family: 'Bree Serif';
     font-size: 22px;
     text-align: center;
+    color: #63a7a6;
     background-image: url('virag.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
     background-position-y: top;
     background-position-x: left;
+    background-color: ##c9d3dd;
     padding-top: 45%;
 }
 
@@ -16,6 +18,17 @@ body {
     padding-bottom: 2rem;
 }
 
-.title {
+.title1 {
     font-family: 'Lobster Two';
+    color: #214e4c;
+    font-size: 4rem;
+}
+
+.title2 {
+    font-family: 'Lobster Two';
+    color: #2e6e6b;
+}
+
+.pontok {
+    color: #2e6e6b;
 }
