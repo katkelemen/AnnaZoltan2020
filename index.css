@@ -1,26 +1,21 @@
 body {
-    font-family: "Cormorant Garamond", Arial, Tahoma, sans-serif;
+    font-family: 'Bree Serif';
+    font-size: 22px;
     text-align: center;
     background-image: url('virag.png');
     background-repeat: no-repeat;
-    background-attachment: fixed;
     background-position: center;
     background-size: contain;
     background-position-y: top;
     background-position-x: left;
-}
-
-/* .container {
-    margin-top: 25rem;
-} */
-
-.first {
-    height: 25rem;
-    z-index: 99;
+    padding-top: 45%;
 }
 
 .row {
-    z-index: 1;
     padding-top: 2rem;
     padding-bottom: 2rem;
+}
+
+.title {
+    font-family: 'Lobster Two';
 }
