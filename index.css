@@ -1,5 +1,5 @@
 body {
-    font-family: 'Bree Serif';
+    font-family: 'Lora';
     font-size: 22px;
     text-align: center;
     color: #63a7a6;
@@ -26,6 +26,11 @@ body {
 
 .title2 {
     font-family: 'Lobster Two';
+    color: #2e6e6b;
+}
+
+.title3 {
+    font-family: 'Bree Serif';
     color: #2e6e6b;
 }
 
